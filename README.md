@@ -1,6 +1,9 @@
 # ***ET-Gen-AI-Hackathon***
 ---
 
+<img width="1279" height="371" alt="image" src="https://github.com/user-attachments/assets/09b65e96-5b78-4e74-9eb8-fe025b12f1d2" />
+
+-----
 ### **Problem Statement :- 9 (AI Money Mentor)**
 
 *95% of Indians don't have a financial plan. **Financial advisors charge ₹25,000+ per year** and serve only High Net-worth Individuals (HNIs). Build an AI-powered **personal finance mentor** that lives inside ET, turns confused savers into confident investors, and makes financial planning as accessible as **checking WhatsApp**.*
