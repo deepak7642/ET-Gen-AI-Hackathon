@@ -64,3 +64,36 @@
   
 - txtai (LLM inference engine) 
 
+
+### **Limitations**
+
+- Assumes constant income, expenses, and savings behavior
+  
+- Uses fixed return and inflation assumptions
+  
+- LLM responses may vary slightly due to generative nature
+  
+- Simplified retirement model (does not include dynamic withdrawal strategies)
+  
+  
+#### **Future Improvements -**
+
+- Implement time-series based simulations to evaluate FIRE probability under different market conditions, including visual insights and trend analysis.
+  
+- Enhance prompt engineering and upgrade to more advanced LLM/GenAI models for improved accuracy, personalization, and financial reasoning.
+  
+- Develop personalized investment optimization strategies based on user risk profile, goals, and market assumptions.
+  
+- Integration with real-time financial and market data APIs for dynamic and up-to-date analysis.
+  
+- Development of an interactive user interface (e.g., web dashboard) for better user experience and visualization.
+  
+- Scenario-based planning (e.g., job loss, salary growth, inflation spikes) to test financial resilience.
+  
+- Automated portfolio tracking and rebalancing recommendations.
+  
+- Multi-user profile support with comparative financial insights.
+  
+- Explainable AI (XAI) layer to justify recommendations and improve user trust.
+  
+- Mobile-friendly or app-based deployment for wider accessibility. (like ET’s Whatsapp feature)
