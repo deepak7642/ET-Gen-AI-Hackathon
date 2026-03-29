@@ -58,7 +58,7 @@
 *10. Final output is displayed to the user.*
 
 
-#### **Prerequisite (libraries) to install before run the core AI prototype :-
+#### **Prerequisite (libraries) to install before run the core AI prototype :-**
 
 - LangChain (Prompt orchestration)
   
